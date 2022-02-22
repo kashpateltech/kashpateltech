@@ -8,7 +8,7 @@
 - 📫 How to reach me: kashpateltech@gmail.com
 - 😄 A little about me... I love travelling and trying out new cuisines. I am a foodie with a sweet tooth. Furthermore, I also like trade forex, crypto and love sharing my knowledge. I love to read and reasearch. I read biographies, fictional novels and much more.
 
-As a front-end developer, I possess the following techni skills such as HTML, CSS, JAVASCRIPT, BOOTSTRAP, NODEJS, API, JSON, LOCAL STORAGE and much more. 
+As a full-stack (MERN) developer, I possess the following techni skills such as HTML, CSS, JAVASCRIPT, BOOTSTRAP, NODEJS, API, JSON, LOCAL STORAGE, REACT, MongoDB, SQL and much more. 
 Other computer skills include Salesforce, Microsoft Word, Excel, Powerpoint, Outlook Tableau.
 NON-TECHNICAL SKILLS include Customer service Extensive knowledge of Private Health Insurance, People skills, Interpersonal skills, Team Leading and Managing. 
 
